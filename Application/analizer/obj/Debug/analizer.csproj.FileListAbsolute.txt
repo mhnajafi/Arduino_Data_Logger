@@ -1,0 +1,61 @@
+c:\users\m.h.najafi\documents\visual studio 2013\Projects\analizer\analizer\bin\Debug\analizer.exe.config
+c:\users\m.h.najafi\documents\visual studio 2013\Projects\analizer\analizer\bin\Debug\analizer.exe
+c:\users\m.h.najafi\documents\visual studio 2013\Projects\analizer\analizer\bin\Debug\analizer.pdb
+c:\users\m.h.najafi\documents\visual studio 2013\Projects\analizer\analizer\obj\Debug\analizer.csprojResolveAssemblyReference.cache
+c:\users\m.h.najafi\documents\visual studio 2013\Projects\analizer\analizer\obj\Debug\analizer.Form1.resources
+c:\users\m.h.najafi\documents\visual studio 2013\Projects\analizer\analizer\obj\Debug\analizer.Properties.Resources.resources
+c:\users\m.h.najafi\documents\visual studio 2013\Projects\analizer\analizer\obj\Debug\analizer.csproj.GenerateResource.Cache
+c:\users\m.h.najafi\documents\visual studio 2013\Projects\analizer\analizer\obj\Debug\analizer.exe
+c:\users\m.h.najafi\documents\visual studio 2013\Projects\analizer\analizer\obj\Debug\analizer.pdb
+C:\Users\M.H.Najafi\documents\visual studio 2013\Projects\analizer\analizer\obj\Debug\analizer.Form2.resources
+E:\Documents\computer\Programing\C#\my project\analizer\analizer\bin\Debug\analizer.exe.config
+E:\Documents\computer\Programing\C#\my project\analizer\analizer\obj\Debug\analizer.exe
+E:\Documents\computer\Programing\C#\my project\analizer\analizer\obj\Debug\analizer.pdb
+E:\Documents\computer\Programing\C#\my project\analizer\analizer\bin\Debug\analizer.exe
+E:\Documents\computer\Programing\C#\my project\analizer\analizer\bin\Debug\analizer.pdb
+E:\Documents\computer\Programing\C#\my project\analizer\analizer\obj\Debug\analizer.csprojResolveAssemblyReference.cache
+E:\Documents\computer\Programing\C#\my project\analizer\analizer\obj\Debug\analizer.Form1.resources
+E:\Documents\computer\Programing\C#\my project\analizer\analizer\obj\Debug\analizer.Form2.resources
+E:\Documents\computer\Programing\C#\my project\analizer\analizer\obj\Debug\analizer.Properties.Resources.resources
+E:\Documents\computer\Programing\C#\my project\analizer\analizer\obj\Debug\analizer.csproj.GenerateResource.Cache
+F:\Documents\computer\Programing\C#\my project\analizer1\analizer\bin\Debug\analizer.exe.config
+F:\Documents\computer\Programing\C#\my project\analizer1\analizer\obj\Debug\analizer.exe
+F:\Documents\computer\Programing\C#\my project\analizer1\analizer\obj\Debug\analizer.pdb
+F:\Documents\computer\Programing\C#\my project\analizer1\analizer\bin\Debug\analizer.exe
+F:\Documents\computer\Programing\C#\my project\analizer1\analizer\bin\Debug\analizer.pdb
+F:\Documents\computer\Programing\C#\my project\analizer1\analizer\obj\Debug\analizer.csprojResolveAssemblyReference.cache
+F:\Documents\computer\Programing\C#\my project\analizer1\analizer\obj\Debug\analizer.Form1.resources
+F:\Documents\computer\Programing\C#\my project\analizer1\analizer\obj\Debug\analizer.Form2.resources
+F:\Documents\computer\Programing\C#\my project\analizer1\analizer\obj\Debug\analizer.Properties.Resources.resources
+F:\Documents\computer\Programing\C#\my project\analizer1\analizer\obj\Debug\analizer.csproj.GenerateResource.Cache
+E:\Documents\computer\Programing\C#\my project\analizer1\analizer\bin\Debug\analizer.exe.config
+E:\Documents\computer\Programing\C#\my project\analizer1\analizer\obj\Debug\analizer.exe
+E:\Documents\computer\Programing\C#\my project\analizer1\analizer\obj\Debug\analizer.pdb
+F:\Documents\computer\Programing\visual stadio\my project\analizer1\analizer\bin\Debug\analizer.exe.config
+F:\Documents\computer\Programing\visual stadio\my project\analizer1\analizer\obj\Debug\analizer.exe
+F:\Documents\computer\Programing\visual stadio\my project\analizer1\analizer\obj\Debug\analizer.pdb
+F:\Documents\computer\Programing\visual stadio\my project\analizer1\analizer\bin\Debug\analizer.exe
+F:\Documents\computer\Programing\visual stadio\my project\analizer1\analizer\bin\Debug\analizer.pdb
+F:\Documents\computer\Programing\visual stadio\my project\analizer1\analizer\obj\Debug\analizer.Form1.resources
+F:\Documents\computer\Programing\visual stadio\my project\analizer1\analizer\obj\Debug\analizer.Properties.Resources.resources
+F:\Documents\computer\Programing\visual stadio\my project\analizer1\analizer\obj\Debug\analizer.csproj.GenerateResource.Cache
+F:\Documents\computer\Programing\visual stadio\my project\analizer1\analizer\bin\Debug\analizer.exe.manifest
+F:\Documents\computer\Programing\visual stadio\my project\analizer1\analizer\bin\Debug\analizer.application
+F:\Documents\computer\Programing\visual stadio\my project\analizer1\analizer\obj\Debug\analizer.exe.manifest
+F:\Documents\computer\Programing\visual stadio\my project\analizer1\analizer\obj\Debug\analizer.application
+F:\Documents\computer\Programing\visual stadio\my project\analizer1\analizer\obj\Debug\analizer.csprojAssemblyReference.cache
+F:\Documents\computer\Programing\visual stadio\my project\analizer1\analizer\obj\Debug\analizer.csproj.CoreCompileInputs.cache
+C:\Users\mhn\Desktop\challenge\analizer1\analizer\bin\Debug\analizer.exe.config
+C:\Users\mhn\Desktop\challenge\analizer1\analizer\bin\Debug\analizer.exe.manifest
+C:\Users\mhn\Desktop\challenge\analizer1\analizer\bin\Debug\analizer.application
+C:\Users\mhn\Desktop\challenge\analizer1\analizer\bin\Debug\analizer.exe
+C:\Users\mhn\Desktop\challenge\analizer1\analizer\bin\Debug\analizer.pdb
+C:\Users\mhn\Desktop\challenge\analizer1\analizer\obj\Debug\analizer.csprojAssemblyReference.cache
+C:\Users\mhn\Desktop\challenge\analizer1\analizer\obj\Debug\analizer.Form1.resources
+C:\Users\mhn\Desktop\challenge\analizer1\analizer\obj\Debug\analizer.Properties.Resources.resources
+C:\Users\mhn\Desktop\challenge\analizer1\analizer\obj\Debug\analizer.csproj.GenerateResource.cache
+C:\Users\mhn\Desktop\challenge\analizer1\analizer\obj\Debug\analizer.csproj.CoreCompileInputs.cache
+C:\Users\mhn\Desktop\challenge\analizer1\analizer\obj\Debug\analizer.exe.manifest
+C:\Users\mhn\Desktop\challenge\analizer1\analizer\obj\Debug\analizer.application
+C:\Users\mhn\Desktop\challenge\analizer1\analizer\obj\Debug\analizer.exe
+C:\Users\mhn\Desktop\challenge\analizer1\analizer\obj\Debug\analizer.pdb
